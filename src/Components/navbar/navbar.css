@@ -24,12 +24,16 @@
     gap:40px;
     margin-right:100px ;
 }
+.menusections ul li a{
+    text-decoration:name;
+    color:white;
+}
 .menusections ul li{
     list-style: none;
     color:orangered;
 }
 
-.menusections ul li:hover{
+.menusections ul li a:hover{
     border-bottom: 1px solid palevioletred;
 }
 
